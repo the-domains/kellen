@@ -14,10 +14,10 @@ author:
     avatar: {}
 related: []
 publisher:
-  url: 'http://www.politico.com'
   name: POLITICO
-  favicon: 'http://www.politico.com/favicon.ico'
   domain: www.politico.com
+  url: 'http://www.politico.com'
+  favicon: 'http://www.politico.com/favicon.ico'
 keywords:
   - tax
   - ryan
@@ -34,13 +34,15 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.politico.com/story/2015/11/paul-ryan-tax-reform-house-speaker-215405'
 title: "Ryan's move could be big boost for tax reform"
-datePublished: '2015-11-02T16:50:28.880Z'
-dateModified: '2015-11-02T16:49:59.855Z'
+datePublished: '2015-11-02T16:51:30.649Z'
+dateModified: '2015-11-02T16:51:20.157Z'
 sourcePath: _posts/2015-11-02-ryans-move-could-be-big-boost-for-tax-reform.md
 published: true
 inFeed: true
 hasPage: false
 inNav: false
+starred: true
+authors: []
 _context: 'http://schema.org'
 _type: MediaObject
 
